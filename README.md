@@ -75,14 +75,14 @@ These tables are connected with foreign keys (e.g., students → enrollments →
   “Show me all students enrolled in Computer Science.”
 2. Frontend sends request → Flask backend (/chat).
 3. Backend workflow:
-  - Detect intent (greeting / query / other).
-  - If query → Gemini generates SQL using schema.
-  - SQLAlchemy executes query on MySQL.
-  - Results are formatted into chat + markdown table.
+    - Detect intent (greeting / query / other).
+    - If query → Gemini generates SQL using schema.
+    - SQLAlchemy executes query on MySQL.
+    - Results are formatted into chat + markdown table.
 4. Response goes back to frontend:
-  - Chat message explains the answer.
-  - SQL query shown separately.
-  - Results displayed in a table view.
+    - Chat message explains the answer.
+    - SQL query shown separately.
+    - Results displayed in a table view.
 
 ## Requirements
 ### Backend requires:
