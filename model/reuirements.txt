@@ -1,0 +1,11 @@
+Flask
+flask-cors
+SQLAlchemy
+pymysql
+python-dotenv
+pandas
+tabulate
+langchain
+langgraph
+langchain-google-genai
+google-generativeai
