@@ -105,3 +105,7 @@ These tables are connected with foreign keys (e.g., students → enrollments →
 - axios
 
 ## Screenshots
+
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/101e7ecd-232e-4ba3-a92e-e520fd09bd39" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/dfc5d6cb-6cfd-4cf5-bf21-b03d3ebc5cfb" />
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/d8c1d1ee-42bd-408d-afeb-e4d02f7efcb0" />
